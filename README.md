@@ -1,10 +1,10 @@
 # Bem-vindo ao Meu Repositório Principal
 
-![GitHub followers](https://img.shields.io/github/followers/code-hub-dev?style=social)
-![GitHub stars](https://img.shields.io/github/stars/code-hub-dev?style=social)
+![GitHub followers](https://img.shields.io/github/followers/leonelmendes?style=social)
+![GitHub stars](https://img.shields.io/github/stars/leonelmendes?style=social)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-hub-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-hub-dev&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonelmendes&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonelmendes&layout=compact&theme=radical)
 
 ## Sobre Mim
 
@@ -35,7 +35,7 @@ Meu forte é o desenvolvimento de APIs robustas e seguras, bem como a integraç�
 
 Aqui estão alguns dos meus projetos em destaque:
 
-1. **[Projeto 1](https://github.com/code-hub-dev/API-CRUD-JWT_TOKEN)**
+1. **[Projeto 1](https://github.com/leonelmendes/API-CRUD-JWT_TOKEN)**
    - Descrição: Uma API RESTful com o CRUD com o Login .
    - Tecnologias: ASP.NET Core, PostgreSQL
 
@@ -45,7 +45,7 @@ Se você quiser entrar em contato comigo, você pode me encontrar nas seguintes 
 
 - [BuyMeaCoffe](https://www.buymeacoffee.com/codehub)
 - [Twitter](https://twitter.com/lionelmendes_)
-- [Email](mailto:codehub.dev@outlook.com)
+- [Email](mailto:leonelftacisco@outlook.com)
 
 Obrigado por visitar meu repositório! Fique à vontade para explorar os projetos e entrar em contato se tiver alguma dúvida ou sugestão.
 
