@@ -38,9 +38,10 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente em **Lis
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 <br>
@@ -49,6 +50,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente em **Lis
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
@@ -68,7 +70,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente em **Lis
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonelmendes&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonelmendes&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonelmendes&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
 </p>
 
@@ -78,9 +80,13 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente em **Lis
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Kanban Task Manager](https://github.com/leonelmendes/DDM_LD_N6)** | Sistema de gestão de projetos. Focado na hierarquia onde **Gestores** atribuem tarefas e **Programadores** atualizam o estado do desenvolvimento em tempo real. (Em Desenv.) | `.NET MAUI` `API REST` |
-| **[O Pequeno Guardião](https://github.com/leonelmendes/SEU-LINK-AQUI)** | Jogo 2D de aventura e plataformas desenvolvido com foco em mecânicas fluidas e design de níveis. | `Unity` `C#` |
-| **[API CRUD Auth](https://github.com/leonelmendes/API-CRUD-JWT_TOKEN)** | API RESTful completa com autenticação JWT segura, Login e operações de CRUD otimizadas. | `.NET Core` `PostgreSQL` |
+| **[Kanban Task Manager](https://github.com/leonelmendes/DDM_LD_N_6)** | Sistema de gestão onde **Gestores** atribuem tarefas e **Programadores** atualizam o estado em tempo real. | `.NET MAUI` `API REST` |
+| **[Recipe App](https://github.com/leonelmendes/recipe-app-react-native)** | App de culinária consumindo a API TheMealDB. Navegação por abas e busca por ingredientes/categorias. | `React Native` `Expo` `TS` |
+| **[Maui Auth Client](https://github.com/leonelmendes/Maui-Auth-Client)** | Cliente mobile com Autenticação JWT segura, Login persistente e gestão de perfil de utilizador. | `.NET MAUI` `C#` |
+| **[API CRUD Kotlin](https://github.com/leonelmendes/api-crud-kotlin-ktor)** | API RESTful leve e rápida para gestão de utilizadores utilizando o framework Ktor. | `Kotlin` `Ktor` `PostgreSQL` |
+| **[Quiz App Swift](https://github.com/leonelmendes/app04-quiz-swift)** | Jogo de Quiz nativo para iOS com temporizador, lógica de pontuação e interface UIKit. | `Swift` `Xcode` |
+| **[API CRUD Auth](https://github.com/leonelmendes/API-CRUD-JWT_TOKEN)** | API RESTful completa com autenticação JWT, Login e operações de CRUD otimizadas. | `.NET Core` `PostgreSQL` |
+| **[O Pequeno Guardião](https://github.com/leonelmendes/O-Pequeno-Guardiao-Primeiro-Jogo)** | Jogo 2D de aventura e plataformas desenvolvido com foco em mecânicas fluidas. | `Unity` `C#` |
 
 ---
 
